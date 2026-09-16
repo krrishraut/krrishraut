@@ -1,6 +1,8 @@
-<h2>Hi, I'm Krrish Raut! Great to see you here! 👋</h2>
+<h1 align="center">Hi, I'm Krrish Raut! Great to see you here! 👋</h1>
 
-I'm Krrish Raut, a BCA undergraduate exploring software development and emerging technologies.
+<h3 align="center">Imagine | Build | Deploy | Improve | Repeat</h3>
+
+I'm Krrish Raut, a CS undergrad exploring software development and emerging technologies.
 
 I'm passionate about building practical applications, learning new technologies, and turning ideas into real-world solutions.
 Currently exploring Artificial Intelligence, Generative AI, backend development, and modern software technologies.
